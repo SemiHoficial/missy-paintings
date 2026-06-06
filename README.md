@@ -1,3 +1,3 @@
 # Paintings
 
-![cover.png](.cover.png)
+![cover.png](./cover.png)
